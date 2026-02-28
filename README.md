@@ -97,17 +97,21 @@ in any modern web browser.
 
 #### Screenshots (Add at least 3)
 
-![Home Page](Screenshot 2026-02-28 085421.png)
+![Home Page](<img width="1898" height="886" alt="Screenshot 2026-02-28 085421" src="https://github.com/user-attachments/assets/2f483f25-246f-475b-9e82-ddbb1fa92033" />)
+
 
 Home page showing featured pets and landing interface.
 
-![Browse Pets](Screenshot 2026-02-28 090441.png)
+![Browse Pets](
+<img width="1855" height="869" alt="Screenshot 2026-02-28 090837" src="https://github.com/user-attachments/assets/0a4d59b1-7e9c-43e4-8a63-901080a52b1b" />)
 Browse pets page with filtering and search functionality.
 
-![Compatibility Quiz](Screenshot 2026-02-28 090618.png)
+![Compatibility Quiz](
+<img width="1868" height="856" alt="Screenshot 2026-02-28 090618" src="https://github.com/user-attachments/assets/92c55571-4a2b-4ddf-bc6b-716fd3458e13" />)
 Compatibility quiz used to match users with suitable pets.
 
-![Pet Details](Screenshot 2026-02-28 090837.png)
+![Pet Details](
+<img width="1909" height="866" alt="Screenshot 2026-02-28 090441" src="https://github.com/user-attachments/assets/0de46f0c-6254-4702-a82a-99bb9de15442" />)
 
 Pet details modal showing owner information and pet description.
 ---
@@ -135,23 +139,14 @@ User → Login → Browse Pets → Take Quiz → View Matches → Save Favorites
 ## Project Demo
 
 ### Video
-(Add your demo video link here)
-
-Example:
-https://youtube.com/demo-link
-
-The video demonstrates browsing pets, taking the quiz, saving favorites, and listing pets for adoption.
+https://drive.google.com/file/d/1Z8056mMlicdKVh_7ir6utnTrAEExwxUB/view?usp=sharing
+The video demonstrates signing up, browsing pets, taking the quiz, saving favorites, and listing pets for adoption.
 
 ---
-
-### Additional Demos
-Live Demo Link: https://your-live-project-link.com
-
----
-
 ## AI Tools Used (Optional - For Transparency Bonus)
 
-**Tool Used:** ChatGPT
+**Tool Used:** ChatGPT, Gemini
+
 
 **Purpose:**
 - Debugging assistance
@@ -163,7 +158,6 @@ Live Demo Link: https://your-live-project-link.com
 - "Improve JavaScript filtering logic"
 - "Generate hackathon README structure"
 
-**Percentage of AI-generated code:** ~20%
 
 **Human Contributions**
 - Project idea and planning
@@ -185,6 +179,3 @@ Live Demo Link: https://your-live-project-link.com
 This project is licensed under the MIT License.
 
 ---
-
-## ❤️ Built for Tink-Her-Hack
-PetMatch promotes responsible adoption by improving communication, compatibility, and trust between pet owners and adopters.
