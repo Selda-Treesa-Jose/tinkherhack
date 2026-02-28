@@ -101,7 +101,9 @@ in any modern web browser.
 
 #### Screenshots (Add at least 3)
 
-![Home Page](<img width="1898" height="886" alt="Screenshot 2026-02-28 085421" src="https://github.com/user-attachments/assets/2f483f25-246f-475b-9e82-ddbb1fa92033" />)
+<p align="center">
+  <img src="./HomePage.png" alt="Project Banner" width="100%">
+</p>
 
 
 Home page showing featured pets and landing interface.
