@@ -97,20 +97,18 @@ in any modern web browser.
 
 #### Screenshots (Add at least 3)
 
-![Home Page](<img width="1898" height="886" alt="Screenshot 2026-02-28 085421" src="https://github.com/user-attachments/assets/64b222ec-8257-4c51-a415-3859765fe0e5" />
-)
+![Home Page](Screenshot 2026-02-28 085421.png)
+
 Home page showing featured pets and landing interface.
 
-![Browse Pets](<img width="1909" height="866" alt="Screenshot 2026-02-28 090441" src="https://github.com/user-attachments/assets/42568bf6-f2b7-45e9-ae9b-5f4c3cb7f4db" />
-)
+![Browse Pets](Screenshot 2026-02-28 090441.png)
 Browse pets page with filtering and search functionality.
 
-![Compatibility Quiz](<img width="1868" height="856" alt="image" src="https://github.com/user-attachments/assets/51f974c1-598e-4900-a7e3-294bee6987b6" />
-)
+![Compatibility Quiz](Screenshot 2026-02-28 090618.png)
 Compatibility quiz used to match users with suitable pets.
 
-![Pet Details](<img width="1855" height="869" alt="image" src="https://github.com/user-attachments/assets/bb6d7b31-d4de-4dd4-9933-235393dc1b0a" />
-)
+![Pet Details](Screenshot 2026-02-28 090837.png)
+
 Pet details modal showing owner information and pet description.
 ---
 
