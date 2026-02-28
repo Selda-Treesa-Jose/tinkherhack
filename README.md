@@ -5,16 +5,16 @@
 ## Basic Details
 
 ### Team Name:
-PetMatch
+CodePals
 
 ### Team Members
-- Member 1: Your Name – Your College
-- Member 2: Teammate Name – College Name
+- Member 1: Selda Treesa Jose – Mar Athansius College of Engineering
+- Member 2: Christina Manjila – Mar Athansius College of Engineering
 
 ---
 
 ### Hosted Project Link
-https://your-live-project-link.com
+https://selda-treesa-jose.github.io/petmatch-web/
 
 ---
 
@@ -57,9 +57,6 @@ PetMatch provides a centralized platform where adopters can browse pets, learn a
 - VS Code
 - Git & GitHub
 - Browser Developer Tools
-
-#### For Hardware:
-(Not Applicable)
 
 ---
 
